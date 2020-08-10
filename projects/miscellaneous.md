@@ -99,6 +99,11 @@
 
 ---
 
+- [mkvats.science/COVID-19](http://mkvats.science/COVID-19/) (डैशबोर्ड तथा स्टैट्स ट्रैकर - भारतीय राज्यों एवं विश्व के देशों के आंकड़ों का विश्लेषण (मैप, डेटा टेबल, टाइमलाइन, रिपोर्ट्स एवं चार्ट्स के माध्यम से))
+  - By: [@mkvats](https://github.com/mkvats)
+
+---
+
 - [COVID-19 Tracker (Flutter App)](https://github.com/prateekKrOraon/covid19_tracker)
   - By: [@prateekKrOraon](https://github.com/prateekKrOraon)
 
